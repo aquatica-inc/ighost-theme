@@ -1,1 +1,1 @@
-# hugo-mono
+# iGhost
