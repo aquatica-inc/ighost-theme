@@ -36,8 +36,8 @@ main {
 }
 
 .header-logo img {
-  border-radius: 50%;
-  border: 4px solid #E1E1E1;
+  border-radius: 20%;
+  border: 2px solid #CCCCCC;
 }
 
 .header-logo img:hover {
