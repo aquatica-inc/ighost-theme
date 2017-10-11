@@ -37,7 +37,6 @@ main {
 
 .header-logo img {
   border-radius: 20%;
-  border: 2px solid #CCCCCC;
 }
 
 .header-logo img:hover {
